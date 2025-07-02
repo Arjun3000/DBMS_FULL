@@ -68,4 +68,4 @@ SELECT * FROM users WHERE username = 'admin' --' AND password = 'anything';
 
 ---
 
-✅ End of Day 1 — Push this file to your GitHub repo under `Notes/Day1_Intro_to_DBMS.md`
+✅ End of Day 1 — Push this file to your GitHub repo under 
