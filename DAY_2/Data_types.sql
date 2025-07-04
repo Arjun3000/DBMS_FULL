@@ -27,3 +27,5 @@ WHERE is_active = false AND join_date < '2022-01-01';
 
 SELECT*FROM employees
 WHERE name IN ('ARJUN SHARMA','VIRAT KOHLI');
+
+
