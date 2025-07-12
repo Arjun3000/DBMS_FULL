@@ -17,6 +17,9 @@ UPDATE batter
 SET runs = 10000
 WHERE name = 'rohit';
 
+use Dbms_course;
+show tables;
+
 DELETE FROM batter
 WHERE name = 'dhawan';
 
